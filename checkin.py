@@ -48,20 +48,20 @@ res=s.post(url=url,data=protect(json.dumps(logindata)),headers=headers2)
 tempcookie=res.cookies
 object=json.loads(res.text)
 if object['code']==200:
-    print("µÇÂ¼³É¹¦£¡")
+    print("ç™»å½•æˆåŠŸï¼")
 else:
-    print("µÇÂ¼Ê§°Ü£¡Çë¼ì²éÃÜÂëÊÇ·ñÕıÈ·£¡"+str(object['code']))
+    print("ç™»å½•å¤±è´¥ï¼è¯·æ£€æŸ¥å¯†ç æ˜¯å¦æ­£ç¡®ï¼"+str(object['code']))
     exit(object['code'])
 
 res=s.post(url=url2,data=protect('{"type":0}'),headers=headers)
 object=json.loads(res.text)
 if object['code']!=200 and object['code']!=-2:
-    print("Ç©µ½Ê±·¢Éú´íÎó£º"+object['msg'])
+    print("ç­¾åˆ°æ—¶å‘ç”Ÿé”™è¯¯ï¼š"+object['msg'])
 else:
     if object['code']==200:
-        print("Ç©µ½³É¹¦£¬¾­Ñé+"+str(object['point']))
+        print("ç­¾åˆ°æˆåŠŸï¼Œç»éªŒ+"+str(object['point']))
     else:
-        print("ÖØ¸´Ç©µ½")
+        print("é‡å¤ç­¾åˆ°")
 
 
 res=s.post(url=url3,data=protect('{"csrf_token":"'+requests.utils.dict_from_cookiejar(tempcookie)['__csrf']+'"}'),headers=headers)
@@ -101,8 +101,9 @@ postdata={
 res=s.post(url,protect(json.dumps(postdata)))
 object=json.loads(res.text,strict=False)
 if object['code']==200:
-    print("Ë¢µ¥³É¹¦£¡¹²"+str(count)+"Ê×")
+    print("åˆ·å•æˆåŠŸï¼å…±"+str(count)+"é¦–")
     exit()
 else:
-    print("·¢Éú´íÎó£º"+str(object['code'])+object['message'])
+
+    print("å‘ç”Ÿé”™è¯¯ï¼š"+str(object['code'])+object['message'])
     exit(object['code'])
