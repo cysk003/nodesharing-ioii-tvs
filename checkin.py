@@ -104,6 +104,5 @@ if object['code']==200:
     print("刷单成功！共"+str(count)+"首")
     exit()
 else:
-
     print("发生错误："+str(object['code'])+object['message'])
     exit(object['code'])
