@@ -5,6 +5,11 @@
   {"host":"www.iesdouyin.com", "rule":["douyinvod.com", "/video/tos/cn/", "mime_type="]}
 ], 
 	"sites": [
+{"key":"360_spider","name":"️360影视(官)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_QQ","name":"腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_IQIYI","name":"爱奇艺(官)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
+{"key":"csp_MGTV","name":"芒果TV(官)","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
+
 	{
 		"key": "py_kunyu77",
 		"name": "🔥七七",
