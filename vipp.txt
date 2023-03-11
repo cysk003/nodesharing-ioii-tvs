@@ -83,13 +83,6 @@
     }
   ],
   "sites": [
-     {"key":"csp_Kunyu77",
-      "name":"酷云七七(SP)",
-      "type":3,
-      "api":"csp_Kunyu77",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1},
     {
       "key": "360",
       "name": "360",
@@ -494,7 +487,7 @@
       }
     },
     {
-      "name": "解析6",
+      "name": "空",
       "type": 0,
       "url": "",
       "ext": {
@@ -521,11 +514,11 @@
       }
     },
     {
-      "name": "解析7",
+      "name": "空",
       "url": ""
     },
     {
-      "name": "",
+      "name": "空",
       "type": 1,
       "url": "",
       "ext": {
@@ -555,12 +548,12 @@
       }
     },
     {
-      "name": "懒懒1",
+      "name": "空",
       "type": 1,
       "url": ""
     },
     {
-      "name": "EXO",
+      "name": "空",
       "type": 0,
       "url": "",
       "ext": {
@@ -579,7 +572,7 @@
       }
     },
     {
-      "name": "懒懒2",
+      "name": "空",
       "type": 1,
       "url": "",
       "ext": {
@@ -598,7 +591,7 @@
       }
     },
     {
-      "name": "parwix",
+      "name": "空",
       "type": 0,
       "url": ""
     }
