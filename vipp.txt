@@ -1,43 +1,19 @@
 {
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="]}]}],
 "sites":[
-
 {"key":"csp_Ying","name":"樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"️360影视(官)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_QQ","name":"腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IQIYI","name":"爱奇艺(官)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_MGTV","name":"芒果TV(官)","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"drpy_js_优酷","name":"优酷[官源js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/优酷.js"},
-
-
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
 {"key":"csp_Mjxq","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_app_美剧范","name":"🐌美剧范(v2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttzmz.net/api.php/v1.vod"},
 {"key":"csp_xbb_美剧虫","name":"🍀美剧虫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/美剧虫.json"},
 {"key":"csp_xbb_akmeiju","name":"🍀爱看美剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/akmeiju.json"},
 {"key":"csp_xbb_爱港剧","name":"🍀爱港剧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/爱港剧.json"},
-
 {"key":"csp_xBPQ_美剧网","name":"美剧网","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/美剧网.json"},
-
-
-
-
-{"key":"drpy_js_哔哩直播","name":" 哔哩[直播js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/哔哩直播.js"},
-{"key":"drpy_js_斗鱼直播","name":" 斗鱼[直播js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/斗鱼直播.js"},
-{"key":"drpy_js_虎牙直播","name":" 虎牙[直播js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/虎牙直播.js"},
-{"key":"drpy_js_JustLive","name":" JustLive[直播js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/JustLive.js"},
-
-
-
-
-{"key":"csp_Ying","name":"樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"360_spider","name":"️360影视(官)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"csp_QQ","name":"腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_IQIYI","name":"爱奇艺(官)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
-{"key":"csp_MGTV","name":"芒果TV(官)","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"drpy_js_优酷","name":"优酷[官源js]","type":3,"api":"./JS/lib/drpy2.min.js","ext":"./JS/js/优酷.js"},
-
-
 {"key":"csp_BBB","name":"️哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydsys.top/duo/Bili/bili.json"},
 {"key":"csp_Yiso","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://yydsys.top/duo/ali/token.txt"},
 {"key":"PanSou","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://yydsys.top/duo/ali/token.txt"},
