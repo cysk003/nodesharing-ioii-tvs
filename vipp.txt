@@ -1,7 +1,7 @@
 {
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="]}]}],
 "sites":[
-{"key":"dr_兔小贝","name":"兔小贝","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/兔小贝.js"},
+//{"key":"dr_兔小贝","name":"兔小贝","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/兔小贝.js"},
 
 {"key":"csp_IQIYI","name":"爱奇艺(官)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_QQ","name":"腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
@@ -115,18 +115,9 @@
 {"key":"csp_xbb_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/斗鱼.json"},
 {"key":"csp_xp_huya","name":"🐯虎牙直播","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/虎牙.json"},
 {"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
-  {
-      "key": "T4直播转点播",
-      "name": "T4直播转点播",
-      "type": 4,
-      "api": "http://120.53.102.254/live?url=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA==",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+ 
+  
 {"key":"csp_BBB","name":"️哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yydsys.top/duo/Bili/bili.json"},
-
-
 
 		{
 			"key": "软件",
@@ -203,7 +194,21 @@
 {"name":"️解析44","type":0,"url":"https://jx.nyqty.com/?url="},
 {"name":"️解析45","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"️解析46","type":0,"url":"https://h5.freejson.xyz/player/?url="},
-{"name":"️解析47","type":0,"url":"https://chaxun.truechat365.com/?url="}
+{"name":"️解析47","type":0,"url":"https://chaxun.truechat365.com/?url="},
+{"name":"️解析48","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
+{"name":"️解析49","type":0,"url":"https://jx.zui.cm/?url="},
+{"name":"️解析50","type":0,"url":"https://jx.aidouer.net/?url="},
+{"name":"️解析51","type":0,"url":"https://jx.blbo.cc:4433/?url="},
+{"name":"️解析52","type":0,"url":"https://api.qianqi.net/vip/?url="},
+{"name":"️解析53","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
+{"name":"️解析54","type":0,"url":"https://jx.playerjy.com/?url="},
+{"name":"️解析56","type":0,"url":"https://ckmov.ccyjjd.com/ckmov/?url="},
+{"name":"️解析57","type":0,"url":"https://www.ckmov.com/?url="},
+{"name":"️解析58","type":0,"url":"https://vip.bljiex.com/?v="},
+{"name":"️解析59","type":0,"url":"https://www.mtosz.com/m3u8.php?url="},
+{"name":"️解析60","type":0,"url":"http://www.pangujiexi.cc/jiexi.php?url="},
+{"name":"️解析61","type":0,"url":"https://go.yh0523.cn/y.cy?url="},
+{"name":"️解析62","type":0,"url":"https://jx.4kdv.com/?url="}
 ],
 "flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","优酷","西瓜","乐视","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy","哔哩哔哩","哔哩"],"spider":"https://download.kstore.space/download/3376/cc.jar;md5;EB433F3B00E991E6BA6509CFFC99672C",
 "ijk":[
