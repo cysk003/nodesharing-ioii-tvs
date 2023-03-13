@@ -160,10 +160,10 @@
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"并发","type":2,"url":"Parallel"},
 {"name":"轮询","type":2,"url":"Sequence"},
-{"name":"️解析1","type":1,"http://j.grelighting.cn/parser/?url="},
+{"name":"️解析1","type":0,"http://j.grelighting.cn/parser/?url="},
         {
             "name": "解析2",
-            "type": 1,
+            "type": 0,
             "url": "http://lanlan.ckflv.cn/?url=",
             "ext": {
                 "flag": [
