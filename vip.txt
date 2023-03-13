@@ -3,10 +3,11 @@
 "sites":[
 //{"key":"dr_兔小贝","name":"兔小贝","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/兔小贝.js"},
 
-{"key":"csp_IQIYI","name":"爱奇艺(官)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
-{"key":"csp_QQ","name":"腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"芒果TV(官)","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"️360影视(官)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
+{"key":"csp_QQ","name":"腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_IQIYI","name":"爱奇艺(官)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
+
 
 {"key":"csp_Ying","name":"樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"日本动漫(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
@@ -143,7 +144,7 @@
 
 
 
-
+{"key": "push_agent","name": "阿里 | 推送","type": 3,"api": "csp_Push","ext": "http://ali.饭太硬.ml/tok"},
 {"key": "csp_FindZY","name": "💡找资源(仅搜索)","type": 3,"api": "csp_FindZY","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.liucn.cc/box/sub/ext/token.txt"},
 {"key":"csp_Yiso","name":"易搜(仅搜索)","type":3,"api":"csp_YiSo","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://yydsys.top/duo/ali/token.txt"},
 {"key":"PanSou","name":"盘搜(仅搜索)","type":3,"api":"csp_PanSou","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"https://yydsys.top/duo/ali/token.txt"},
@@ -159,13 +160,36 @@
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"并发","type":2,"url":"Parallel"},
 {"name":"轮询","type":2,"url":"Sequence"},
-{"name":"️解析1","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
-{"name":"️解析2","type":0,"url":"http://www.miaoys.cc/vip/?url="},
-{"name":"解析3","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
-{"name":"️解析4","type":0,"url":"https://www.yemu.xyz/?url="},
-{"name":"️解析5","type":0,"url":"https://www.nxflv.com/?url="},
-{"name":"️解析6","type":0,"url":"https://vip.bljiex.com/?v="},
-{"name":"解析7","type":0,"url":"https://jx.4kdv.com/?url="}
+{"name":"️解析1","type":1,"http://j.grelighting.cn/parser/?url="},
+        {
+            "name": "解析2",
+            "type": 1,
+            "url": "http://lanlan.ckflv.cn/?url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "qq",
+                    "letv",
+                    "sohu",
+                    "youku",
+                    "mgtv",
+                    "bilibili",
+                    "wasu",
+                    "xigua",
+                    "1905"
+                ]
+            },
+{"name":"️解析3","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"️解析4","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"️解析5","type":0,"https://jx.jsonplayer.com/player/?url="},
+
+{"name":"解析6","type":0,"url":"http://www.miaoys.cc/vip/?url="},
+{"name":"️解析7","type":0,"url":"https://www.yemu.xyz/?url="},
+
+{"name":"️解析8","type":0,"url":"https://www.nxflv.com/?url="},
+{"name":"️解析9","type":0,"url":"https://www.ckmov.com/?url="},
+{"name":"️解析10","type":0,"url":"https://vip.bljiex.com/?v="},
+{"name":"解析11","type":0,"url":"https://jx.4kdv.com/?url="}
 ],
 "flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","优酷","西瓜","乐视","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy","哔哩哔哩","哔哩"],"spider":"https://download.kstore.space/download/3376/cc.jar;md5;EB433F3B00E991E6BA6509CFFC99672C",
 "ijk":[
