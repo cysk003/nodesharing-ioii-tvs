@@ -181,7 +181,6 @@
             },
 {"name":"️解析3","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"️解析4","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
-{"name":"️解析5","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"解析6","type":0,"url":"http://www.miaoys.cc/vip/?url="},
 {"name":"️解析7","type":0,"url":"https://www.yemu.xyz/?url="},
 {"name":"️解析8","type":0,"url":"https://www.nxflv.com/?url="},
