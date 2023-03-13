@@ -161,7 +161,7 @@
 {"name":"并发","type":2,"url":"Parallel"},
 {"name":"轮询","type":2,"url":"Sequence"},
 {"name":"️解析1","type":1,"url":"http://j.grelighting.cn/parser/?url="},
-{"name":"️解析2","type":0,"url":"http://lanlan.ckflv.cn/?url="},
+//{"name":"️解析2","type":0,"url":""},
 {"name":"️解析3","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"️解析4","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"解析5","type":0,"url":"http://www.miaoys.cc/vip/?url="},
@@ -171,7 +171,7 @@
 {"name":"️解析9","type":0,"url":"https://vip.bljiex.com/?v="},
 {"name":"解析10","type":0,"url":"https://jx.4kdv.com/?url="},
         {
-            "name": "客气",
+            "name": "腾讯专线",
             "type": 1,
             "url": "http://lanlan.ckflv.cn/?url=",
             "ext": {
