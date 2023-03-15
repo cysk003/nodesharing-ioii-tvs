@@ -162,7 +162,7 @@
 {"name":"轮询","type":2,"url":"Sequence"},
 {"name":"️解析1","type":1,"url":"http://j.grelighting.cn/parser/?url="},
 {"name":"️解析2","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-{"name":"tx嗅探","url": "https://txcgb.rth1.one/777/?url="},
+{"name":"tx嗅探","type":0,"url": "https://txcgb.rth1.one/777/?url="},
 {
             "name": "战狼",
             "type": 0,
