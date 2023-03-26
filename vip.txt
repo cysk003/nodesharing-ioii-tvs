@@ -1,13 +1,4 @@
 {
-//{"加速
-https://cdn.jsdelivr.net/gh/nodesharing/ioii/vip.txt
-https://purge.jsdelivr.net/gh/nodesharing/ioii/vip.txt
-https://raw.staticdn.net/nodesharing/ioii/blob/master/vip.txt
-https://raw.gitmirror.com/nodesharing/ioii/master/vip.txt
-https://ghproxy.com/https://raw.githubusercontent.com/nodesharing/ioii/master/vip.txt},
-
-
-
 "wallpaper":"https://api.dujin.org/pic/yuanshen/",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="]}]}],
