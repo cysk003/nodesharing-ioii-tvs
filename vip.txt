@@ -1,9 +1,9 @@
-//{加速
-https://cdn.jsdelivr.net/gh/nodesharing/ioii/vip.txt
-https://purge.jsdelivr.net/gh/nodesharing/ioii/vip.txt
-https://raw.staticdn.net/nodesharing/ioii/blob/master/vip.txt
-https://raw.gitmirror.com/nodesharing/ioii/master/vip.txt
-https://ghproxy.com/https://raw.githubusercontent.com/nodesharing/ioii/master/vip.txt}
+#{加速
+https://cdn.jsdelivr.net/gh/nodesharing/ioii/vip.txt,
+https://purge.jsdelivr.net/gh/nodesharing/ioii/vip.txt,
+https://raw.staticdn.net/nodesharing/ioii/blob/master/vip.txt,
+https://raw.gitmirror.com/nodesharing/ioii/master/vip.txt,
+https://ghproxy.com/https://raw.githubusercontent.com/nodesharing/ioii/master/vip.txt},
 
 
 
