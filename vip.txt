@@ -10,7 +10,6 @@
 
 {
 "wallpaper":"https://api.dujin.org/pic/yuanshen/",
-"spider":"https://raw.gitmirror.com/CatVodTVOfficial/TVBoxOSC/main/gradle/wrapper/gradle-wrapper.jar;md5;451e0b3037c608b724985f74784e7bb7",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="]}]}],
 "sites":[
 //{"key":"dr_兔小贝","name":"兔小贝","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/兔小贝.js"},
