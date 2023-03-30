@@ -22,10 +22,9 @@
 
 {"key":"csp_IQIYI","name":"爱奇艺(官)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_QQ","name":"腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"csp_MGTV","name":"芒果TV(官)","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360_spider","name":"️360影视(官)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-
+{"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/菜狗.js"},
 
 {"key":"csp_Ying","name":"樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"日本动漫(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
