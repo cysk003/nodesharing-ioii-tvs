@@ -9,7 +9,7 @@
 
 
 {
-"spider":"https://raw.gitmirror.com/nodesharing/ioii/master/cc.jar;md5;9671347a0e39853a72ebcbe33a25b116",
+"spider":"https://raw.gitmirror.com/nodesharing/ioii/master/cc.jar;md5;13a501a061a86e2bb4fc8c38f3703608",
 
 //"spider":"https://download.kstore.space/download/3376/cc.jar;md5;EB433F3B00E991E6BA6509CFFC99672C",
 
