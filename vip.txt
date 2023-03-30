@@ -9,9 +9,9 @@
 
 
 {
-//"spider":"https://raw.gitmirror.com/nodesharing/ioii/master/cc.jar;md5;EB433F3B00E991E6BA6509CFFC99672C",
+"spider":"https://raw.gitmirror.com/nodesharing/ioii/master/cc.jar;md5;EB433F3B00E991E6BA6509CFFC99672C",
 
-"spider":"https://download.kstore.space/download/3376/cc.jar;md5;EB433F3B00E991E6BA6509CFFC99672C",
+//"spider":"https://download.kstore.space/download/3376/cc.jar;md5;EB433F3B00E991E6BA6509CFFC99672C",
 
 
 
