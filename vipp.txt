@@ -1,0 +1,245 @@
+
+{"spider": "https://ghproxy.com/https://raw.githubusercontent.com/nodesharing/ioii/master/custom_spider.jar",
+ "sites":[
+{
+            "key": "csp_新视觉",
+            "name": "🍁新视觉",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	    "jar":"http://101.34.67.237/files/新视觉.jar"
+        },
+        {
+            "key": "dr_菜狗",
+            "name": "菜狗(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://101.34.67.237/js/菜狗.js"
+        },
+        {
+            "key": "dr_荐片",
+            "name": "荐片(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://101.34.67.237/js/荐片.js"
+        },
+        {
+            "key": "dr_drpy",
+            "name": "drpy(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://101.34.67.237/js/drpy.js"
+        },
+        {
+            "key": "dr_ddys",
+            "name": "ddys(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/js/ddys.js"
+        },
+        {
+            "key": "dr_360影视",
+            "name": "360影视(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/js/360影视.js"
+        },
+        {
+            "key": "dr_腾云驾雾",
+            "name": "腾云驾雾(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://101.34.67.237/js/腾云驾雾.js"
+        },
+        {
+            "key": "dr_百忙无果",
+            "name": "百忙无果(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://101.34.67.237/js/百忙无果.js"
+        },
+        {
+            "key": "py_bilizb",
+            "name": "py_bilizb(Pyramid)",
+            "type": 3,
+            "api": "py_bilizb",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/txt/py/py_bilizb.py"
+        },
+        {
+            "key": "dr_兰花影院",
+            "name": "兰花影院(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/js/兰花影院.js"
+        },
+        {
+            "key": "dr_量子影视",
+            "name": "量子影视(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/js/量子影视.js"
+        },
+        {
+            "key": "dr_蛋蛋赞",
+            "name": "蛋蛋赞(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/js/蛋蛋赞.js"
+        },
+        {
+            "key": "dr_秋霞",
+            "name": "秋霞(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/js/秋霞.js"
+        },
+        {
+            "key": "dr_小强迷",
+            "name": "小强迷(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/js/小强迷.js"
+        },
+        {
+            "key": "dr_奇珍异兽",
+            "name": "奇珍异兽(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://101.34.67.237/js/奇珍异兽.js"
+        },
+        {
+            "key": "dr_乐猪TV",
+            "name": "乐猪TV(drpy)",
+            "type": 3,
+            "api": "http://101.34.67.237/libs/drpy.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/js/乐猪TV.js"
+        },
+{"key":"bili","name":"B站 | Bili[jar]","type":3,"api":"csp_Bili","ext": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/bili.json"},
+
+{"key": "push_agent","name": "阿里 | 推送","type": 3,"api": "csp_Push","ext": "http://ali.饭太硬.ml/tok"}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="]}]}],
+"rules":[
+{"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},{"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
+{"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="],"filter":[]},
+{"host":"www.sharenice.net","rule":["douyin.com","/play/"]},
+{"host":"m.ysxs8.vip","rule":["ysting.ysxs8.vip:81","xmcdn.com"],"filter":[]},
+{"host":"hdmoli.com","rule":[".m3u8"]},{"host":"https://api.live.bilibili.com","rule":["bilivideo.com","/index.m3u8"],"filter":["data.bilibili.com/log/web","i0.hdslb.com/bfs/live/"]},
+{"host":"www.agemys.cc","rule":["cdn-tos","obj/tos-cn"]},
+{"host":"www.fun4k.com","rule":["https://hd.ijycnd.com/play","index.m3u8"]},
+{"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]}],
+"parses":[
+{"name":"Json聚合","type":3,"url":"Demo"},
+{"name":"Json并发","type":2,"url":"Parallel"},
+{"name":"Json轮询","type":2,"url":"Sequence"},
+//{"name":"️解析1","type":1,"url":"http://j.grelighting.cn/parser/?url="},
+{"name":"️解析2","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+{"name":"解析3","url": "https://txcgb.rth1.one/777/?url="},
+{
+            "name": "解析4",
+            "type": 0,
+            "url": "https://jx.zhanlangbu.com/?url=",
+            "ext": {
+                "header": {
+                    "User-Agent": "okhttp/4.1.0"
+                },
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv",
+                    "leshi",
+                    "LS",
+                    "乐视",
+                    "pptv",
+                    "PPTV",
+                    "sohu",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩"
+                ]
+            }
+        },
+{"name":"️解析5","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"️解析6","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"解析7","type":0,"url":"http://www.miaoys.cc/vip/?url="},
+{"name":"️解析8","type":0,"url":"https://www.yemu.xyz/?url="},
+        {
+            "name": "腾讯专线",
+            "type": 1,
+            "url": "http://lanlan.ckflv.cn/?url=",
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "qq",
+                    "letv",
+                    "sohu",
+                    "youku",
+                    "mgtv",
+                    "bilibili",
+                    "wasu",
+                    "xigua",
+                    "1905"
+                ]
+            }
+        },
+{"name":"️解析9","type":0,"url":"https://www.nxflv.com/?url="},
+{"name":"️解析10","type":0,"url":"https://www.ckmov.com/?url="},
+{"name":"️解析11","type":0,"url":"https://vip.bljiex.com/?v="},
+{"name":"解析12","type":0,"url":"https://jx.4kdv.com/?url="}
+],
+"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
+"wallpaper":"http://genshin.astrophel.top/random.php"
+}
