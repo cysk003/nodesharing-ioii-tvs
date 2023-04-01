@@ -160,8 +160,10 @@
 {"name":"️解析83","type":0,"url":"https://jx.ppflv.com/?url="},
 {"name":"️解析84","type":0,"url":"https://vip.bljiex.cc/?v="},
 {"name":"️解析85","type":0,"url":"https://y.9dan.cc/?v="},
-{"name":"️解析86","type":0,"url":"http://jx.vipmv.co/?url="}
-
+{"name":"️解析86","type":0,"url":"http://jx.vipmv.co/?url="},
+//{"name":"️解析1","type":1,"url":"http://j.grelighting.cn/parser/?url="},
+{"name":"解析","type":0,"url":"https://jx.m3u8.pw/?url="},
+{"name":"解析1","type":0,"url":"https://www.cygqw.com/jiexi/jiekou-2/?url="}
 ],
 "flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","优酷","西瓜","乐视","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy","哔哩哔哩","哔哩"],"spider":"https://download.kstore.space/download/3376/cc.jar;md5;EB433F3B00E991E6BA6509CFFC99672C",
 "ijk":[
