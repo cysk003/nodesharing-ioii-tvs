@@ -19,7 +19,7 @@ https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
 
 
 "wallpaper":"https://imgapi.cn/api.php?fl=dongman&gs=images",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2docHJveHkuY29tL2h0dHBzJTNBLy9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25vZGVzaGFyaW5nL2lvaWkvbWFzdGVyL3R2bGl2ZS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbm9kZXNoYXJpbmcvaW9paS9tYXN0ZXIvdHZsaXZlLnR4dA=="]}]}],
 "sites":[
 //{"key":"dr_兔小贝","name":"兔小贝","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/兔小贝.js"},
 
