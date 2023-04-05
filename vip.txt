@@ -185,11 +185,12 @@ https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
   {
       "name": "Web聚合",
       "type": 3,
-      "url": "Web"
+      "url": "Web",
+      "header":{"User-Agent":"Mozilla/5.0"}
     },
-{"name":"Json聚合","type":3,"url":"Demo"},
-{"name":"并发","type":2,"url":"Parallel"},
-{"name":"轮询","type":2,"url":"Sequence"},
+//{"name":"Json聚合","type":3,"url":"Demo"},
+//{"name":"并发","type":2,"url":"Parallel"},
+//{"name":"轮询","type":2,"url":"Sequence"},
 {"name":"猫影视解析","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=3266342&key=clmqrwCEFHJR025789&url="},
 {"name":"解析","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"解析0","type": 1,"url": "http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="},
