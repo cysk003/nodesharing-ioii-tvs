@@ -26,6 +26,17 @@ https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
 "sites":[
 //{"key":"dr_兔小贝","name":"兔小贝","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/兔小贝.js"},
 
+
+{
+      "key": "櫻花",
+      "name": "櫻花",
+      "type": 3,
+      "api": "csp_IQIYI",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+
 {"key":"csp_IQIYI","name":"爱奇艺(官)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_QQ","name":"腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"芒果TV(官)","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1},
