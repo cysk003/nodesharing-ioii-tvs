@@ -1,6 +1,6 @@
 //https://pastebin.com/raw/5NHaxyGR道长
 
-{"spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a3a0ad16814a815fdad26b236cdd5a05",
+{"spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;5b77e550fc0e997d1c7ec4dc9eca695a",
  "sites":[
  /*
 {"key":"drpy_js_豆瓣","name":"搜索 | 豆瓣[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/drpy.js"},
