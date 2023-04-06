@@ -12,9 +12,9 @@ https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
 
 
 {
-//"spider":"https://raw.gitmirror.com/nodesharing/ioii/master/cc.jar;md5;bc587d74a255cd139b0b72b05d37c4b1",
+"spider":"https://raw.gitmirror.com/nodesharing/ioii/master/cc.jar;md5;bc587d74a255cd139b0b72b05d37c4b1",
 
-"spider":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar",
+//"spider":"https://raw.gitmirror.com/nodesharing/ioii/master/custom_spider.jar",
 
 
 //"spider":"https://download.kstore.space/download/3376/cc.jar;md5;EB433F3B00E991E6BA6509CFFC99672C",
@@ -25,17 +25,6 @@ https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbm9kZXNoYXJpbmcvaW9paS9tYXN0ZXIvdHZsaXZlLnR4dA=="]}]}],
 "sites":[
 //{"key":"dr_兔小贝","name":"兔小贝","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/兔小贝.js"},
-
-
-{
-      "key": "csp_IQIYI",
-      "name": "樱花",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
 
 {"key":"csp_IQIYI","name":"爱奇艺(官)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
 {"key":"csp_QQ","name":"腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
