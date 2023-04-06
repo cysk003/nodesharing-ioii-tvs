@@ -28,8 +28,8 @@ https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
 
 
 {
-      "key": "櫻花",
-      "name": "櫻花",
+      "key": "csp_IQIYI",
+      "name": "樱花",
       "type": 3,
       "api": "csp_IQIYI",
       "searchable": 1,
