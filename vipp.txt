@@ -168,12 +168,12 @@
                 "User-Agent": "Mozilla/5.0"
             }
         },
- //{
+/*{
       "name": "Web聚合",
       "type": 3,
       "url": "Web",
       "header":{"User-Agent":"Mozilla/5.0"}
-    },
+    },*/
 //{"name":"Json聚合","type":3,"url":"Demo"},
 //{"name":"并发","type":2,"url":"Parallel"},
 //{"name":"轮询","type":2,"url":"Sequence"},
