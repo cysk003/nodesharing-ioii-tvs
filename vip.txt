@@ -12,7 +12,7 @@ https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
 
 
 {
-"spider":"https://raw.gitmirror.com/nodesharing/ioii/master/top98_1.jar;md5;76e3da1fb49e60db5676b3fe043906bf",
+"spider":"https://raw.gitmirror.com/nodesharing/ioii/master/top98_1.jar;md5;d5425be8a89c913028b38735ebd0218b",
 
 //"spider":"http://home.jundie.top:81/jar/top98_1.jar",
 
