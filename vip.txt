@@ -12,9 +12,9 @@ https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
 
 
 {
-"spider":"https://raw.gitmirror.com/nodesharing/ioii/master/top98_1.jar",
+"spider":"https://raw.gitmirror.com/nodesharing/ioii/master/top98_1.jar;md5;76e3da1fb49e60db5676b3fe043906bf",
 
-//"spider":"http://home.jundie.top:81/jar/top98_1.jar;md5;76e3da1fb49e60db5676b3fe043906bf",
+//"spider":"http://home.jundie.top:81/jar/top98_1.jar",
 
 
 //"spider":"https://download.kstore.space/download/3376/cc.jar;md5;EB433F3B00E991E6BA6509CFFC99672C",
