@@ -191,11 +191,10 @@ https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
 //{"name":"Json聚合","type":3,"url":"Demo"},
 //{"name":"并发","type":2,"url":"Parallel"},
 //{"name":"轮询","type":2,"url":"Sequence"},
-{"name":"猫影视解析","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=3063926&key=bdilrtvxAGIJRTX167&url="},
+{"name":"测试","type":1,"url":"http://jx.realdou.cn/home/api?type=ys&uid=1308187&key=dijptuyzBDEFIJUY67&url="},
 {"name":"解析","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"解析0","type": 1,"url": "http://xn--wnup5g.xn--z7x900a.love:63/Art1/analysis.php?v="},
 {"name":"解析1","type":1,"url":"https://api.json.icu/api/?key=4034856a871a52121159b1e2b6a01c60&url="},
-{"name":"解析1","type":1,"url":"https://api.json.icu/api/?key=aedfdfc26716b0c27916ba5dcdca9ee8&url="},
 {"name":"️解析2","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"解析3","url": "https://txcgb.rth1.one/777/?url="},
 {
