@@ -100,6 +100,7 @@
             "filterable": 1,
             "ext": "http://101.34.67.237/js/菜狗.js"
         },
+{"key": "搜狐资源","name": "️搜狐影视","type":1,"api":"http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/","playUrl":"https://jx.xmflv.com/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
  {
             "key": "dr_兔小贝",
             "name": "🐯兔小贝",
@@ -306,7 +307,7 @@
 //{"name":"轮询","type":2,"url":"Sequence"},
 {"name":"测试","type":1,"url":"http://svip.ikumiao.icu/home/api?type=ys&uid=2892878&key=nprwxyAFLNSTUWXY67&url="},
 {"name":"测试1","type":1,"url":"http://jx.realdou.cn/home/api?type=ys&uid=1308187&key=dijptuyzBDEFIJUY67&url="},
-{"name":"测试2","type":0,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=3266342&key=bdjntuvxBEFLUWX235&url="},
+{"name":"测试2","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=3266342&key=bdjntuvxBEFLUWX235&url="},
 {"name":"测试3","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=3063926&key=adefgqtwxzBFILUX48&url="},
 {"name":"测试4","type":1,"url":"https://api.json.icu/api/?key=4034856a871a52121159b1e2b6a01c60&url="},
 {"name":"测试5","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=abhstwDGRSUVYZ0127&mgtv=app&url="},
