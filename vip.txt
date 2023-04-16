@@ -347,6 +347,7 @@
 {"name":"️解析6","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"解析7","type":0,"url":"http://www.miaoys.cc/vip/?url="},
 {"name":"️解析8","type":0,"url":"https://www.yemu.xyz/?url="},
+{"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
         {
             "name": "腾讯专线",
             "type": 1,
