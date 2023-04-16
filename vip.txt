@@ -381,5 +381,5 @@
 {"name":"️解析11","type":0,"url":"https://vip.bljiex.com/?v="},
 {"name":"解析12","type":0,"url":"https://jx.4kdv.com/?url="}
   ],
-  "wallpaper": "http://www.kf666888.cn/api/tvbox/img"
+  "wallpaper": "https://imgapi.cn/api.php?fl=dongman&gs=images"
 }
