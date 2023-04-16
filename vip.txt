@@ -311,7 +311,8 @@
 {"name":"测试5","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=abhstwDGRSUVYZ0127&mgtv=app&url="},
 {"name":"测试6","type":1,"url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
 {"name":"测试7","url":"https://api.json.icu/api/?key=d4eda1dcc50cff07f9fa4fc70546aa53&url="},
-{"name":"测试8","url":https://vip.blssv.com/API.php?appkey=6d9c4e806a6aea7dab99d53b377ea0f0&url=},
+{"name":"测试8","url":"https://vip.blssv.com/API.php?appkey=6d9c4e806a6aea7dab99d53b377ea0f0&url="},
+
 {"name":"解析","type":0,"url":"https://jx.quankan.app/?url="},
 {"name":"️解析2","type":0,"url":"https://jx.777jiexi.com/player/?url="},
 {"name":"解析3","url": "https://txcgb.rth1.one/777/?url="},
