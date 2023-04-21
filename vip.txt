@@ -323,7 +323,7 @@
 //{"name":"Json聚合","type":3,"url":"Demo"},
 //{"name":"并发","type":2,"url":"Parallel"},
 //{"name":"轮询","type":2,"url":"Sequence"},
-{"name":"测试","type":1,"url":"http://svip.ikumiao.icu/home/api?type=ys&uid=2892878&key=nprwxyAFLNSTUWXY67&url="},
+//{"name":"测试","type":1,"url":""},
 {"name":"测试1","type":1,"url":"http://jx.realdou.cn/home/api?type=ys&uid=1308187&key=dijptuyzBDEFIJUY67&url="},
 {"name":"测试2","type":1,"url":"https://api.maoyingshi.cc/home/api?type=ys&uid=3266342&key=bdjntuvxBEFLUWX235&url="},
 {"name":"3","type":1,"url":"http://jxapi.wutao7.top/XL/?url="},
