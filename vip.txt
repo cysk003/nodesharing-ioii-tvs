@@ -119,27 +119,8 @@
             "ext": "http://101.34.67.237/js/菜狗.js"
         },
 
-{
-            "key": "dr_荐片",
-            "name": "搜",
-            "type": 3,
-            "api": "http://101.34.67.237/libs/drpy.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "http://101.34.67.237/js/荐片.js"
-        },
 {"key": "搜狐资源","name": "️搜狐影视","type":1,"api":"http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/","playUrl":"https://jx.xmflv.com/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
- {
-            "key": "dr_兔小贝",
-            "name": "🐯兔小贝",
-            "type": 3,
-            "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
-            "ext": "http://ftyyy.tk/JS/js/兔小贝.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
-        },
+
 {"key":"csp_xbb_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/斗鱼.json"},
 {"key":"csp_xp_meiju56","name":"💢美剧网","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/meiju562.json"},
 
