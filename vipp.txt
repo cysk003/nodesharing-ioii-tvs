@@ -1,4 +1,5 @@
 /*
+https://github.com/dxawi/1
 //加速
 //https://cdn.jsdelivr.net/gh/nodesharing/ioii/vip.txt,
 //https://purge.jsdelivr.net/gh/nodesharing/ioii/vip.txt,
