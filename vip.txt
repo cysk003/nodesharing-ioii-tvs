@@ -131,6 +131,29 @@
         },
 {"key":"csp_xbb_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/斗鱼.json"},
 {"key":"csp_xp_meiju56","name":"💢美剧网","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/meiju562.json"},
+
+    {
+            "key": "py_huya",
+            "name": "py_huya(Pyramid)",
+            "type": 3,
+            "api": "py_huya",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/txt/py/py_huya.py"
+        },
+  {
+            "key": "py_douyu",
+            "name": "py_douyu(Pyramid)",
+            "type": 3,
+            "api": "py_douyu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://101.34.67.237/txt/py/py_douyu.py"
+        },
+
+
      {
             "key": "XBPQ_69美剧",
             "name": "💛69┃美剧",
