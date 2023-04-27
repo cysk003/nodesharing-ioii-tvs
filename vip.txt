@@ -158,17 +158,7 @@ http://home.jundie.top:81/top98.json
             "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
             "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/DJ%E9%9F%B3%E4%B9%90.js"
         },
-
-
-
-
-{
-            "key" : "drpy_js_荐片",
-            "name" : "荐片",
-            "type" : 3,
-            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-            "ext" : "https://agit.ai/guot54/TVBOXZY/raw/commit/3898cff2e637d6f41cf2307be86b649736e10123/JS/js/%e8%8d%90%e7%89%87.js"
-        },
+/*
         {
             "key" : "drpy_js_玩偶姐姐",
             "name" : "玩偶姐姐",
@@ -176,6 +166,7 @@ http://home.jundie.top:81/top98.json
             "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
             "ext" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/js/%e7%8e%a9%e5%81%b6%e5%a7%90%e5%a7%90.js"
         },
+*/
         {
             "key" : "drpy_js_美剧网",
             "name" : "美剧网",
