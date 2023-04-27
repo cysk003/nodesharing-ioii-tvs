@@ -161,6 +161,33 @@ http://home.jundie.top:81/top98.json
 
 
 
+
+{
+            "key" : "drpy_js_荐片",
+            "name" : "荐片",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://agit.ai/guot54/TVBOXZY/raw/commit/3898cff2e637d6f41cf2307be86b649736e10123/JS/js/%e8%8d%90%e7%89%87.js"
+        },
+        {
+            "key" : "drpy_js_玩偶姐姐",
+            "name" : "玩偶姐姐",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/js/%e7%8e%a9%e5%81%b6%e5%a7%90%e5%a7%90.js"
+        },
+        {
+            "key" : "drpy_js_美剧网",
+            "name" : "美剧网",
+            "type" : 3,
+            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+            "ext" : "https://agit.ai/guot54/TVBOXZY/raw/commit/3898cff2e637d6f41cf2307be86b649736e10123/JS/js/%e7%be%8e%e5%89%a7%e7%bd%91.js"
+        },
+
+
+
+
+
 {"key": "搜狐资源","name": "️搜狐影视","type":1,"api":"http://anltv.cn/api.php/provide/vod/from/sohu/?at/xml/","playUrl":"https://jx.xmflv.com/?url=","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]},
 
 //道长https://pastebin.com/raw/5NHaxyGR
