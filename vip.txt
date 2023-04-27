@@ -104,8 +104,8 @@
   "sites": [
   	{"key":"dr_兔小贝1","name":"兔小贝","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/兔小贝.js"},
    {
-            "key": "dr_菜",
-            "name": "搜(官)",
+            "key": "荐片",
+            "name": "荐片",
             "type": 3,
             "api": "http://101.34.67.237/libs/drpy.min.js",
             "searchable": 2,
