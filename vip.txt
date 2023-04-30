@@ -485,7 +485,13 @@ http://home.jundie.top:81/top98.json
 		"name": "爱哭",
 		"type": 1,
 		"url": "http://113.125.122.109:5555/aiku.php?url="},
-
+  {"name":"🐱优酷必解","type":0,"url":"https://jx.iztyy.com/Bei/?url=",   "ext": {
+      "flag": ["qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
+      "header": {
+        "User-Agent": ""
+      }
+    }
+  },
 {"name":"自己","type":1,"url":"http://jx.realdou.cn/home/api?type=ys&uid=1312378&key=dhjlpuvyHIOQVXZ568&url="},
 {"name":"自己2","type":1,"url":"http://yhjx.6ys6.top/home/api?type=ys&uid=3612406&key=bcehlorvCFIOQRVY59&url="},
 {"name":"自己3","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=57322123&key=chkmnvwxABGILMUX78&url="},
