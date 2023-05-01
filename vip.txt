@@ -542,7 +542,8 @@ http://home.jundie.top:81/top98.json
 {"name":"️解析8","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 {"name":"️解析9","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"解析10","type":1,"url":"http://113.125.122.109:5555/aiku.php?url="},
-{"name":"️解析11","type":0,"url":"https://www.yemu.xyz/?url="},
+{"name":"解析11","url":"https://txcgb.rth1.one/777/?url="},
+{"name":"️解析12","type":0,"url":"https://www.yemu.xyz/?url="},
 {"name":"365","type":0,"url":"https://chaxun.truechat365.com/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
         {
             "name": "腾讯专线",
@@ -573,11 +574,11 @@ http://home.jundie.top:81/top98.json
 {"name":"官解(备)","type":1,"url":"https://www.itvbox.cc/bhc.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
 {"name":"QJ1","type":0,"url":"https://svip.bljiex.cc/?url="},
 {"name":"猫影视json③","type":1,"url":"https://www.itvbox.cc/bhc.php?url=","ext":{"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]}},
-{"name":"哗哩","type":0,"url":"https://ckplayer.laobandq.com/jiexi.php?url="},
-{"name":"️解析9","type":0,"url":"https://www.nxflv.com/?url="},
-{"name":"️解析10","type":0,"url":"https://www.ckmov.com/?url="},
-{"name":"️解析11","type":0,"url":"https://vip.bljiex.com/?v="},
-{"name":"解析12","type":0,"url":"https://jx.4kdv.com/?url="}
+{"name":"备用","type":0,"url":"https://ckplayer.laobandq.com/jiexi.php?url="},
+{"name":"️备用9","type":0,"url":"https://www.nxflv.com/?url="},
+{"name":"️备用10","type":0,"url":"https://www.ckmov.com/?url="},
+{"name":"️备用11","type":0,"url":"https://vip.bljiex.com/?v="},
+{"name":"备用12","type":0,"url":"https://jx.4kdv.com/?url="}
   ],
   "wallpaper": "https://imgapi.cn/api.php?fl=dongman&gs=images"
 }
