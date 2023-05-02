@@ -418,6 +418,8 @@ http://home.jundie.top:81/top98.json
       "playerType": 1,
       "quickSearch": 1,
       "filterable": 1
+"ext": "https://raw.gitmirror.com/nodesharing/ioii/master/token.txt"
+
     },
     {
       "key": "push_agent",
