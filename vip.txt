@@ -396,7 +396,8 @@ http://home.jundie.top:81/top98.json
       "quickSearch": 1,
       "playerType": 1,
       "filterable": 0,
-      "ext": "token;asc"
+      //"ext": "token;asc"
+"ext": "https://raw.gitmirror.com/nodesharing/ioii/master/token.txt"
     },
     {
       "key": "yisou",
