@@ -398,6 +398,7 @@ http://home.jundie.top:81/top98.json
       "filterable": 0,
       "ext": "token;asc"
     },
+{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://raw.gitmirror.com/nodesharing/ioii/master/token.txt"},
     {
       "key": "yisou",
       "name": "宜搜",
