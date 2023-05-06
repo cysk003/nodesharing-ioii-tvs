@@ -118,17 +118,6 @@ http://home.jundie.top:81/top98.json
 {"key":"360_spider","name":"️360影视(官)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"dr_兔小贝1","name":"兔小贝","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/兔小贝.js"},
 
-{"key": "易搜","name": "阿里 | 易搜","type": 3,"api": "csp_YiSo","ext": "https://raw.gitmirror.com/nodesharing/ioii/master/vip.txt"},
-
-	{
-      "key": "xjj",
-      "name": "💃🏾小姐姐",
-      "type": 4,
-      "api": "https://mm.diskgirl.com/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 
 
 //小雅http://101.34.67.237/config/1
