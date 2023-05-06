@@ -5,7 +5,7 @@ http://home.jundie.top:81/top98.json
 
 
 {
-  "ads":["114.114.114.114"],
+//  "ads":["114.114.114.114"],
 "warningText": "电视TV",
 // 每日一言 (随机显示欢迎语)
 "dairyWords": [{
