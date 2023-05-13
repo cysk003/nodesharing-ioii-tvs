@@ -170,7 +170,7 @@ http://home.jundie.top:81/top98.json
 
 
 //小雅http://101.34.67.237/config/1
-  // {
+ {
             "key": "dr_菜狗",
             "name": "搜狗(官)",
             "type": 3,
