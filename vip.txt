@@ -272,9 +272,7 @@ http://home.jundie.top:81/top98.json
 
 
 
-//道长https://pastebin.com/raw/5NHaxyGR
-{"key":"drpy_js_虎牙直播","name":"虎牙直播","type":3,"api":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/libs/drpy2.min.js","ext":"https://code.gitlink.org.cn/hjdhnx/dr_py/raw/master/js/虎牙直播.js"},
-
+{"key" : "drpy_js_虎牙","name" : "🦷虎牙直播","type" : 3,"api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext" : "https://agit.ai/guot54/ygbh/raw/branch/master/JS/hy%e7%9b%b4%e6%92%ad.js"},
 {"key":"csp_xbb_斗鱼","name":"🐟斗鱼直播","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/斗鱼.json"},
 {"key":"csp_xp_meiju56","name":"💢美剧网","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/meiju562.json"},
 
@@ -342,73 +340,7 @@ http://home.jundie.top:81/top98.json
       "filterable": 0,
       "ext": "https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"
     }
-    
-/*
-    {
-      "key": "Gitcafe",
-      "name": "小纸条(新)",
-      "type": 3,
-      "api": "csp_Gitcafe",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "token;desc"
-    },
-    {
-      "key": "找资源",
-      "name": "找资源",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "upyunsou",
-      "name": "Up云搜",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 0,
-      "ext": "token;asc"
-    },
-{"key":"UpYun","name":"☁️UP云搜","type":3,"api":"csp_UpYunso","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "https://raw.gitmirror.com/nodesharing/ioii/master/token.txt"},
-    {
-      "key": "yisou",
-      "name": "宜搜",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 0
-    },
-    {
-      "key": "AliPS",
-      "name": "AliPS",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "push_agent",
-      "name": "推送",
-      "type": 3,
-      "api": "csp_PushAgent",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 1,
-      "filterable": 1,
-      "ext": "token;desc"
-    }
-*/
+      
   ],
   "parses": [
 {
