@@ -116,7 +116,25 @@ http://home.jundie.top:81/top98.json
 {"key":"csp_QQ","name":"腾讯视频(官)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_MGTV","name":"芒果TV(官)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
 
+{
 
+            "key": "js豆瓣1",
+
+            "name": "🌈免费接口，请勿贩售 公众号：宝盒汇",
+
+            "type": 3,
+
+            "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+
+            "ext": "http://alist.xn--z7x900a.love:63/豆瓣.js",
+
+            "searchable": 0,
+
+            "quickSearch": 0,
+
+            "filterable": 0
+
+        },
 
 //https://jm.dovxi.repl.co/api?url=http://我不是.肥猫.love:63/接口禁止贩卖
 
@@ -270,6 +288,33 @@ http://home.jundie.top:81/top98.json
 },
 
 
+{
+
+            "key" : "drpy_js_子子影视",
+
+            "name" : "☁️子子影视",
+
+            "type" : 3,
+
+            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+
+            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%AD%90%E5%AD%90%E5%BD%B1%E8%A7%86.js"
+
+        },
+
+        {
+
+            "key" : "drpy_js_创艺",
+
+            "name" : "🎞️创艺影视",
+
+            "type" : 3,
+
+            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+
+            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E5%88%9B%E8%89%BA%E5%BD%B1%E8%A7%86.js"
+
+        },
 
 
 {"key" : "drpy_js_虎牙","name" : "🦷虎牙直播","type" : 3,"api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js","ext" : "https://agit.ai/guot54/ygbh/raw/branch/master/JS/hy%e7%9b%b4%e6%92%ad.js"},
