@@ -784,7 +784,91 @@ http://home.jundie.top:81/top98.json
     "记录片"
     ]
     },
-    
+//不良帅
+{
+			"key": "drpy_饭团",
+			"name": "🍝影视┃饭团",
+			"type": 3,
+			"playerType": 2,
+			"api": "https://agit.ai/qi169/myklok/raw/branch/master/libs/drpy.min.js",
+			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/fantuan.js"
+		},
+		{
+			"key": "drpy_农民",
+			"name": "⭕影视┃农民",
+			"type": 3,
+			"api": "https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js",
+			"ext": "https://agit.ai/qi169/kankan/raw/branch/master/js2/农民.js"
+		},
+		{
+			"key": "drpy_骚火",
+			"name": "🔥影视┃骚火",
+			"type": 3,
+			"api": "https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy2.min.js",
+			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/骚火.js"
+		},
+		{
+			"key": "drpy_小腾",
+			"name": "🐧影视┃小Q",
+			"type": 3,
+			"api": "https://agit.ai/qi169/myklok/raw/branch/master/libs/drpy.min.js",
+			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/腾云驾雾.js"
+		},
+		{
+			"key": "drpy_异果",
+			"name": "🥝影视┃小爱",
+			"type": 3,
+			"api": "https://agit.ai/qi169/myklok/raw/branch/master/libs/drpy.min.js",
+			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/奇珍异兽.js"
+		},
+		{
+			"key": "drpy_U酷",
+			"name": "🆒影视┃小酷",
+			"type": 3,
+			"api": "https://agit.ai/qi169/myklok/raw/branch/master/libs/drpy.min.js",
+			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/优酷.js"
+		},
+		{
+			"key": "drpy_无果",
+			"name": "🍋影视┃小果",
+			"type": 3,
+			"api": "https://agit.ai/qi169/myklok/raw/branch/master/libs/drpy.min.js",
+			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/百忙无果.js"
+		},
+		{
+			"key": "drpy_LIBV",
+			"name": "🍩影视┃利奥",
+			"type": 3,
+			"api": "https://agit.ai/qi169/myklok/raw/branch/master/libs/drpy.min.js",
+			"ext": "https://gitea.com/ikan/myp/raw/branch/master/js/LIBVIO.js"
+		},
+		{
+			"key": "drpy_创艺",
+			"name": "🍥影视┃创艺",
+			"type": 3,
+			"api": "https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy2.min.js",
+			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/创艺.js"
+		},
+		{
+			"key": "drpy_狗狗",
+			"name": "🐶影视┃狗狗",
+			"type": 3,
+			"playerType": 2,
+			"api": "https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js",
+			"ext": "https://notabug.org/qizhen15800/My9394/raw/master/js/菜狗.js"
+		},
+		{
+			"key": "app_干饭",
+			"name": "️🍙影视┃干饭",
+			"type": 1,
+			"api": "http://124.220.183.81:83/api.php/provide/vod/",
+			"playUrl": "",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": ["电影", "剧集", "综艺", "动漫"]
+		},
+		
 
 
 
@@ -933,4 +1017,3 @@ http://home.jundie.top:81/top98.json
   ],
   "wallpaper": "https://imgapi.cn/api.php?fl=dongman&gs=images"
 }
-
